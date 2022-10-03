@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Newcode
+class prime
 {
   public static void main(String args[])
   {
