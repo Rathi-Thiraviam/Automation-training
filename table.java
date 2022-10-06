@@ -10,7 +10,7 @@ public class table {
  	    {
                 String s1=sc.next();
                 int x=sc.nextInt();
-		System.out.printf("\n %-14s %03d", s1,x);
+		System.out.printf("\n %-14s %3d", s1,x);
             } 
             System.out.println("\n");
 	    System.out.println("================================");
